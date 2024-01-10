@@ -1,5 +1,6 @@
 pub mod activation;
 pub mod dense;
+pub mod example;
 pub mod loss;
 pub mod sequential;
 
